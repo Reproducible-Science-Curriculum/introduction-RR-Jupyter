@@ -6,3 +6,4 @@ The individual segments of this lesson are contained in `.ipynb` files:
 - [Getting started with `Jupyter Notebooks`](https://github.com/Reproducible-Science-Curriculum/introduction-RR-Jupyter/blob/master/getting_started_with_jupyter_notebooks.ipynb)
 - [Resources](https://github.com/Reproducible-Science-Curriculumintroduction-RR-Jupyter/blob/master/Resources.ipynb)
 - [Installation instructions](https://github.com/Reproducible-Science-Curriculum/introduction-RR-Jupyter/blob/master/Installation.ipynb)
+- [Checklist](https://github.com/Reproducible-Science-Curriculum/introduction-RR-Jupyter/blob/master/Intro-checklist.md)
