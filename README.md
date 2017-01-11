@@ -2,7 +2,7 @@
 Introduction materials for Reproducible Research Curriculum with `Jupyter Notebook` and `Python`.
 
 The individual segments of this lesson are contained in `.ipynb` files, located in the notebooks folder. These notebook lessons are designed to be taught in the following order:
-- [Motivating reproducibility](https://github.com/Reproducible-Science-Curriculum/introduction-RR-Jupyter/blob/master/Into-to-reproducible-research.ipynb)
+- [Motivating reproducibility](./notebooks/Into-to-reproducible-research.ipynb)
 - [Background to Jupyter Notebooks](https://github.com/Reproducible-Science-Curriculum/introduction-RR-Jupyter/blob/master/notebooks/Jupyter_Intro_Background.ipynb)
 - [Installing Python & Jupyter](https://github.com/Reproducible-Science-Curriculum/introduction-RR-Jupyter/blob/master/notebooks/Installation.ipynb)
 - [Navigating the Notebook](https://github.com/Reproducible-Science-Curriculum/introduction-RR-Jupyter/blob/master/notebooks/Navigating%20the%20notebook%20-%20instructor%20script.ipynb)
