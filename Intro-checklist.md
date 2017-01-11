@@ -2,7 +2,7 @@
 
 #### By the end of this module you should be able to:
 
-**Understand the concept, importance, and componants of reproducible research.**
+**Understand the concept, importance, and components of reproducible research.**
 
 - [ ] Define reproducible research.
 - [ ] Name and describe the four facets of reproducible research.
