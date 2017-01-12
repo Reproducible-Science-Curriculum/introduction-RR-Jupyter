@@ -17,7 +17,7 @@
 
 **Create and navigate through a `Jupyter Notebook` containing `Markdown` and `Code` cells.**
 
-- [ ] Use tabes and keyboard shortcuts to run cells and format text within cells.
+- [ ] Use tables and keyboard shortcuts to run cells and format text within cells.
 - [ ] Create a `markdown` cell including headers, lists, embedded code, `LaTeX`.
 - [ ] Understand the function of a kernel, manage & interrupt if necessary.
 
