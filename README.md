@@ -15,3 +15,5 @@ This notebook is not part of the lesson plan, but can be used as an additional r
 Instructors should use the following `Markdown` files to guide their lesson plan:
 - [Learning Objectives](https://github.com/Reproducible-Science-Curriculum/introduction-RR-Jupyter/blob/master/learningObjectives.md)
 - [Checklist](https://github.com/Reproducible-Science-Curriculum/introduction-RR-Jupyter/blob/master/Intro-checklist.md)
+
+Example slide decks can be seen here: [reproducible-science-curriculum.github.io](https://reproducible-science-curriculum.github.io/introduction-RR-Jupyter/)
